@@ -3,8 +3,13 @@
 
 About: This application was created for a project in the Skillstorm Training Course</div>
   - It runs off of React and Mongoose for the most part.
+
+In order to actually run this project you will need a .env file in the server folder containing
+  - PORT=#### - a port number
+  - MONGO_URI=mongodb+srv:// - a MongoDb URI
+  - The PORT in the serverPort.js file on the client side will also need to be updated to the same PORT
             
-Instructions: Click either the Warehouses or the Items tabs to begin.
+## Instructions: Click either the Warehouses or the Items tabs to begin.
             
   - From these tabs you can create new Warehouse locations or Items to place in them.
     - Just fill in the fields with proper values and click the submission button.
