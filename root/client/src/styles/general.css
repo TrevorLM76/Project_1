@@ -1,0 +1,26 @@
+.welcome {
+    font-size: 80px;
+    padding: 20px;
+    text-align: center;
+    color: rgb(71, 18, 115);
+}
+
+.welcome2 {
+    font-size: 50px;
+    padding: 20px;
+    text-align: center;
+    color: rgb(71, 18, 115);
+}
+
+.loginInputs input {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    font-size: 30px;
+}
+
+.about {
+    font-size: 30px;
+}
